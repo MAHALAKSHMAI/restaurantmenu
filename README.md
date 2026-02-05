@@ -2,7 +2,7 @@
 
 A professional, full-stack Restaurant Point of Sale (POS) system built with React, Node.js, and MongoDB. Designed for efficiency, ease of use, and real-time operations.
 
-## 🚀 Features
+## Features
 
 - **Role-Based Access**: Specialized dashboards for Admin, Cashier, and Kitchen.
 - **Modern POS Interface**: Touch-friendly menu grid with category filtering and beautiful food images.
@@ -11,18 +11,18 @@ A professional, full-stack Restaurant Point of Sale (POS) system built with Reac
 - **Professional Receipts**: Integrated receipt generation and order success confirmation.
 - **Indian Localized**: Prices in INR (₹) and a pre-configured Indian menu.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React, Tailwind CSS, Context API, React Router, Axios.
 - **Backend**: Node.js, Express, Socket.io, JWT Authentication.
 - **Database**: MongoDB (via Mongoose).
 
-## 📋 Prerequisites
+## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16+)
 - [MongoDB](https://www.mongodb.com/try/download/community) installed and running locally.
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the project
 ```bash
@@ -54,7 +54,7 @@ cd ../frontend
 npm install
 ```
 
-## 🏃 Running the Application
+## Running the Application
 
 ### Start Backend
 ```bash
@@ -68,16 +68,10 @@ cd frontend
 npm start
 ```
 
-## 🔐 Default Login Credentials
+## Default Login Credentials
 
 | Role | Email | Password |
 | :--- | :--- | :--- |
 | **Admin** | `admin@pos.com` | `admin123` |
 | **Cashier** | `cashier@pos.com` | `cashier123` |
 | **Kitchen** | `kitchen@pos.com` | `kitchen123` |
-
-## 📸 Screenshots
-*(Add your screenshots here)*
-
-## 📄 License
-This project is licensed under the ISC License.
